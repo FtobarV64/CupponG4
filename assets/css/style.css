@@ -1,0 +1,57 @@
+:root {
+  --light: #f8f9fa;
+  --white: #fff;
+  --success: #28a745;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+/*  */
+
+.nav-img {
+  height: 2rem;
+}
+
+.bg-success {
+  background: var(--success);
+}
+
+.text1 {
+  font-weight: 300;
+  color:#212529;
+}
+
+.card-titleM
+{
+    font-weight: 300;
+    color: #212529;
+}
+
+.addressM{
+    font-weight: 300;
+    color: #212529;
+}
+
+.list-price {
+  color: #707070;
+}
+
+.offer-price {
+    color: var(--success);
+    font-size: 1.5rem;
+}
+
+.dim-form{
+    height: 15rem;
+}
+
+.fmt-title{
+    font-weight: 500;
+    padding: 1rem;
+}
+
+.clr-txt{
+    font-weight: 300;
+    color: #707070;
+}
